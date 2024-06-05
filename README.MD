@@ -1,4 +1,4 @@
-# Build Pokemon Cards With HTML and CSS
+# Build an Interactive Sliding Login & Signup Form with HTML, CSS & JS
 
 ## Watch Full Tutorial on YouTube [link](https://youtu.be/irad02lHv-8)
 
